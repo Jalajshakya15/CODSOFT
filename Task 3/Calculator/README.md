@@ -1,2 +1,0 @@
-# CODSOFT3
-Calculator
